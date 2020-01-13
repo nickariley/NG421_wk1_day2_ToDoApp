@@ -1,5 +1,4 @@
 ## Setup
-1. Fork the project repo from github.com/AustinCodingAcademy/NG421_wk1_day1_ToDoApp
 1. Navigate to a your developer folder or create a new : `mkdir AngularAppsFolder`
 1. git clone your fork into this folder
 1. cd into folder
