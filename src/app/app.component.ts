@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class AppComponent implements OnInit{
   title = 'Todo List';
   todoList: any[] = [];
+  todoTitle = "";
 
   ngOnInit(): void{
     this.todoList = [
